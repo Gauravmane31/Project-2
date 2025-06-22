@@ -23,11 +23,6 @@ The webpage features:
   - `shoe3.png`
   - `Nike1.PNG`
 
-## Setup Instructions
-1. Clone the repository.
-2. Ensure that all image files (`pink.png`, `background1.png`, `shoe3.png`, `Nike1.PNG`) are placed in the same directory as the `index.html` file, or update the image paths in the HTML and CSS accordingly.
-3. Open the `index.html` file in your web browser to view the page.
-
 ## Customization
 You can easily customize:
 - Background images
